@@ -17,5 +17,5 @@
  ##
   
 <div>
-  <a href="https://https://www.instagram.com/fe.lipe_os" target="_blank"><img src="https://img.shields.io/badge/-Instagram-543DE0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/fe.lipe_os" target="_blank"><img src="https://img.shields.io/badge/-Instagram-543DE0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
